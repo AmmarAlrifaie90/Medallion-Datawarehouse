@@ -30,10 +30,5 @@ This project demonstrates a Medallion Architecture Data Warehouse with Bronze, S
 
 
 
----
 
-## 👤 Author
-
-**Ammar Alrifaie** – Data Engineering Enthusiast  
-[GitHub](https://github.com/AmmarAlrifaie90)
 
